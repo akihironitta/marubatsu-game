@@ -1,4 +1,4 @@
-#+TITLE: $3 \times 3$ Marubatsu Game written in C
+#+TITLE: 3x3 Marubatsu Game written in C
 
 * About
 
