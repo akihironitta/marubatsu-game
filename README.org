@@ -2,4 +2,4 @@
 
 * About
 
-  This marubatsu game is supposed to be played with your voice.  Use pipeline to give input into this program.  As for speech to text tool, use something like Julius.  Julius is available at https://github.com/julius-speech/julius.
+  This marubatsu game is supposed to be played using your voice.  Use pipeline to give input into this program.  As for speech to text tool, use something like Julius.  Julius is available at https://github.com/julius-speech/julius.
